@@ -14,6 +14,6 @@
 
  - Open your browser and navigate to http://localhost/chat-server location to open chat page
 
- - Use the command /nick <your-new-nickname> to change your current nickname
+ - Use the command /nick [your-new-nickname] to change your current nickname
 
  - Use the command /quit to logout of chat
